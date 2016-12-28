@@ -1,5 +1,10 @@
 
 ## Commands to start with:
 
-1. netstat  |grep -i established
-2. lsof -i TCP:XXX | grep IP
+1. 
+```bash 
+netstat  |grep -i established
+```
+2. 
+```bash
+lsof -i TCP:XXX | grep IP```
