@@ -3,7 +3,7 @@
 
 1. 
 ```bash 
-netstat  |grep -i established
+netstat | grep -i established
 ```
 2. 
 ```bash
