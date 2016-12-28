@@ -7,4 +7,5 @@ netstat  |grep -i established
 ```
 2. 
 ```bash
-lsof -i TCP:XXX | grep IP```
+lsof -i TCP:XXX | grep IP
+```
